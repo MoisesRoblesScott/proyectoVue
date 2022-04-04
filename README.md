@@ -1,24 +1,14 @@
-# journal
+# Proyecto Vue Factura
 
-## Project setup
+## Configuracion.
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Iniciar Proyecto.
 ```
 npm run serve
 ```
+Debera primero Registrarse con solo colocar el nombre, un correo valido y el password ya quedaras registrado.
+Luego debe iniciar sesion con el correo que se coloco en el momento del registro.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
