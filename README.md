@@ -21,7 +21,7 @@ npm run serve
 - A medida que se vaya llenando los campos correspondientes a los productos de la factura, el valor y valor total iran cambiando 
   dependiendo de los datos de la cantidad y valor unitario.
 - Dar click en el boton azul llamado guardar para realizar el proceso de registro de factura y sus respectivos productos.
-- En la lista de facturas para ver los productos de cada uno, en la columna detalles de dicha tabla, se puede apreciar un icono de una flecha o el icono de     mayor que ( > ). al dar click sobre dicho icono se desplegara una tabla hacia abajo.
+- En la lista de facturas para ver los productos de cada uno, en la columna detalles de dicha tabla, se puede apreciar un icono de una flecha o el icono de     mayor que ">" . Al dar click sobre dicho icono se desplegara una tabla hacia abajo.
 - La tabla contiene una pequeña caja de texto que permite realizar busquedas por el numero de la factura, el emisor y comprador.
 - Si desea organizar los datos de la tabla, en el nombre de la columna numero de factura en la parte derecha, se puede apreciar un icono como de dos           flechas, una para arriba y otra para abajo. Al dar click en alguna de las dos los datos de la tabla se organizara como desea.
 - Puede hacer el procesi de elminacion de una factura y puede hacer el proceso de actualizacion, que es bastante similar a cuando se crea una factura         nueva. 
